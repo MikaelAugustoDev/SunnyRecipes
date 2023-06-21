@@ -6,8 +6,7 @@ export default function Page() {
   return (
     <SafeAreaProvider>
       <View>
-        <Text style={styles.title}>Mikael</Text>
-        <Text style={styles.subtitle}>This is the first page of your app.</Text>
+        <Text style={styles.title}>Teste</Text>
       </View>
     </SafeAreaProvider>
   );
@@ -17,9 +16,5 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 64,
     fontWeight: "bold",
-  },
-  subtitle: {
-    fontSize: 36,
-    color: "#38434D",
   },
 });
