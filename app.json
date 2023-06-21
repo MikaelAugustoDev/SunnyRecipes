@@ -16,6 +16,7 @@
       "adaptiveIcon": {
         "backgroundColor": "#008800"
       }
-    }
+    },
+    "userInterfaceStyle": "automatic"
   }
 }
