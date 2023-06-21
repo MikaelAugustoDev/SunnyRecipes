@@ -5,6 +5,17 @@
       "bundler": "metro"
     },
     "name": "SunnyRecipes",
-    "slug": "SunnyRecipes"
+    "slug": "SunnyRecipes",
+    "splash": {
+      "image": "./assets/splash.png",
+      "backgroundColor": "#FFFFFF",
+      "resizeMode": "contain"
+    },
+    "icon": "./assets/icon.png",
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#008800"
+      }
+    }
   }
 }
