@@ -8,13 +8,12 @@
     "slug": "SunnyRecipes",
     "splash": {
       "image": "./assets/splash.png",
-      "backgroundColor": "#FFFFFF",
-      "resizeMode": "contain"
+      "backgroundColor": "#959A7C"
     },
     "icon": "./assets/icon.png",
     "android": {
       "adaptiveIcon": {
-        "backgroundColor": "#008800"
+        "backgroundColor": "#959A7C"
       }
     },
     "userInterfaceStyle": "automatic"
